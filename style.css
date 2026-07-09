@@ -57,3 +57,13 @@ body{
     position:absolute;
     bottom:10px;
 }
+
+#box3{
+
+    width:200px;
+    height:200px;
+    position:fixed;
+    background-color: rgb(142, 142, 186);
+    bottom:10px;
+    
+}
