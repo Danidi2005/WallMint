@@ -62,8 +62,19 @@ body{
 
     width:200px;
     height:200px;
-    position:fixed;
+    position:sticky;
     background-color: rgb(142, 142, 186);
     bottom:10px;
-    
+    z-index: -1;
+}
+
+#box4{
+
+    width:200px;
+    height:200px;
+    position:sticky;
+    background-color: rgb(159, 0, 117);
+    top:10px;
+    bottom:10px;
+    border-radius: 10px;
 }
